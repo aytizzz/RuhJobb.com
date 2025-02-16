@@ -1,0 +1,693 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ruhjobsss.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ruhjobsss.3g6t3h57tf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\404.html",
+      "PackagePath": "staticwebassets\\RuhJob.com\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\blog-single.html",
+      "PackagePath": "staticwebassets\\RuhJob.com\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\contact.html",
+      "PackagePath": "staticwebassets\\RuhJob.com\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\RuhJob.com\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\author1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\author2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\author3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blockqoute-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog-sidebar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog-sidebar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog-sidebar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\bread-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\call-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client1.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client2.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client3.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client4.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client4.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\client5.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\client5.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\contact-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\fun-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\logo.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\mission-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\pf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\pf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\pf3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\pf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\section-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\testi-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\RuhJob.com\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\index.html",
+      "PackagePath": "staticwebassets\\RuhJob.com\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\colors.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\colors.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\easing.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\main.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\map-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\niceselect.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\niceselect.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\steller.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\steller.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\RuhJob.com\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\mail\\mail.php",
+      "PackagePath": "staticwebassets\\RuhJob.com\\mail\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\portfolio-details.html",
+      "PackagePath": "staticwebassets\\RuhJob.com\\portfolio-details.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\style.css",
+      "PackagePath": "staticwebassets\\RuhJob.com\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\about.html",
+      "PackagePath": "staticwebassets\\admin\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\add.html",
+      "PackagePath": "staticwebassets\\admin\\add.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\assets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\ui.html",
+      "PackagePath": "staticwebassets\\admin\\ui.html"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ruhjobsss.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ruhjobsss.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ruhjobsss.props",
+      "PackagePath": "build\\Ruhjobsss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ruhjobsss.props",
+      "PackagePath": "buildMultiTargeting\\Ruhjobsss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ruhjobsss.props",
+      "PackagePath": "buildTransitive\\Ruhjobsss.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

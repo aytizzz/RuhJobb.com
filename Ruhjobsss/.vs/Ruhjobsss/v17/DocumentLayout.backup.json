@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\job\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\job\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\admin\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\admin\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\wwwroot\\admin\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\wwwroot\\admin\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\dataaccess\\entity\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\dataaccess\\entity\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\dataaccess\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\dataaccess\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\dataaccess\\entity\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\dataaccess\\entity\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\dataaccess\\entity\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\dataaccess\\entity\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\wwwroot\\ruhjob.com\\blog-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\wwwroot\\ruhjob.com\\blog-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\home\\vacancy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\home\\vacancy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\home\\categoryjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\home\\categoryjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|c:\\users\\aytac\\source\\repos\\ruhjobsss\\ruhjobsss\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C2C4A96-E460-4E01-972C-63B3AE691DB3}|Ruhjobsss\\Ruhjobsss.csproj|solutionrelative:ruhjobsss\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T07:36:48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:33:05.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Ruhjobsss\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:35:26.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAGcBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T12:32:56.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Job\\Add.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Job\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Job\\Add.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Job\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T07:15:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\JobController.cs*",
+              "RelativeToolTip": "Ruhjobsss\\Controllers\\JobController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:11:12.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Category.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Home\\Category.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Category.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Home\\Category.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:46:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Admin\\About.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Admin\\About.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Admin\\About.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Admin\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T12:40:29.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ruhjobsss\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:33:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Ruhjobsss\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:47:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Ruhjobsss\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:32:57.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\about.html",
+              "RelativeDocumentMoniker": "Ruhjobsss\\wwwroot\\admin\\about.html",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\about.html",
+              "RelativeToolTip": "Ruhjobsss\\wwwroot\\admin\\about.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwHoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-15T12:41:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\index.html",
+              "RelativeDocumentMoniker": "Ruhjobsss\\wwwroot\\admin\\index.html",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\admin\\index.html",
+              "RelativeToolTip": "Ruhjobsss\\wwwroot\\admin\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-15T12:24:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\About.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\DataAccess\\Entity\\About.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\About.cs",
+              "RelativeToolTip": "Ruhjobsss\\DataAccess\\Entity\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:33:05.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Job.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\DataAccess\\Entity\\Job.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Job.cs",
+              "RelativeToolTip": "Ruhjobsss\\DataAccess\\Entity\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:33:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Contact.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\DataAccess\\Entity\\Contact.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Contact.cs",
+              "RelativeToolTip": "Ruhjobsss\\DataAccess\\Entity\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:33:08.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Ruhjobsss\\DataAccess\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\DataAccess\\Entity\\Category.cs",
+              "RelativeToolTip": "Ruhjobsss\\DataAccess\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:33:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:48:37.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "blog-single.html",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\blog-single.html",
+              "RelativeDocumentMoniker": "Ruhjobsss\\wwwroot\\RuhJob.com\\blog-single.html",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\wwwroot\\RuhJob.com\\blog-single.html",
+              "RelativeToolTip": "Ruhjobsss\\wwwroot\\RuhJob.com\\blog-single.html",
+              "ViewState": "AgIAABUCAAAAAAAAAAAIwDUCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-15T05:56:12.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\CategoryJob.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Home\\CategoryJob.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\CategoryJob.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Home\\CategoryJob.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T06:54:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:32:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vacancy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Vacancy.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Home\\Vacancy.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Vacancy.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Home\\Vacancy.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:47:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Ruhjobsss\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Aytac\\source\\repos\\Ruhjobsss\\Ruhjobsss\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Ruhjobsss\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:33:41.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
