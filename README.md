@@ -4,10 +4,9 @@ This project is a job portal built on ASP.NET Core MVC. The platform connects em
 Features
 
 Main Pages:
+- About: General information about the website.
 
-About: General information about the website.
-
-Contact: Contact form and location details.
+- Contact: Contact form and location details.
 
 Register & Sign In: User registration and authentication.
 
