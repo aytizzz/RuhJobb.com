@@ -1,9 +1,6 @@
 **Job Portal Development**
-
 Overview
-
 This project is a job portal built on ASP.NET Core MVC. The platform connects employers and job seekers, facilitating job postings and simplifying the job search process. The project supports CRUD (Create, Read, Update, Delete) operations.
-
 Features
 
 Main Pages:
