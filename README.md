@@ -8,11 +8,11 @@ Main Pages:
 
 - Contact: Contact form and location details.
 
-Register & Sign In: User registration and authentication.
+- Register & Sign In: User registration and authentication.
 
-Job Listings: Page displaying available job postings.
+- Job Listings: Page displaying available job postings.
 
-Admin Panel: A panel for site administrators to manage job postings, categories, and users.
+- Admin Panel: A panel for site administrators to manage job postings, categories, and users.
 
 **CRUD Operations:**
 
