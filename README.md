@@ -1,4 +1,4 @@
-Job Portal Development
+**Job Portal Development**
 
 Overview
 
@@ -18,7 +18,7 @@ Job Listings: Page displaying available job postings.
 
 Admin Panel: A panel for site administrators to manage job postings, categories, and users.
 
-CRUD Operations:
+**CRUD Operations:**
 
 Create: Adding new job postings and categories.
 
@@ -34,7 +34,7 @@ User registration and profile creation for job seekers.
 
 Moderation of job postings through the admin panel.
 
-Data Model
+**Data Model**
 
 The project includes the following job and category data fields:
 
