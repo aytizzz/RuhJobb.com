@@ -6,7 +6,7 @@ Features
 Main Pages:
 - About: General information about the website.
 
-- Contact: Contact form and location details.
+- Contact: Telephone and email details.
 
 - Register & Sign In: User registration and authentication.
 
