@@ -17,7 +17,7 @@ The project includes the following job and category data fields:
 - Category Name: The category of the job listing.
 
 
-**Technologies*8
+**Technologies**
 
 Backend: ASP.NET Core MVC, Entity Framework Core
 
