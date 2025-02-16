@@ -8,16 +8,16 @@ This project is a job portal built on ASP.NET Core MVC. The platform connects em
 
 The project includes the following job and category data fields:
 
-Job Title: The name of the job position.
+- Job Title: The name of the job position.
 
-Salary: The proposed salary.
+- Salary: The proposed salary.
 
-Description: Job requirements and additional details.
+- Description: Job requirements and additional details.
 
-Category Name: The category of the job listing.
+- Category Name: The category of the job listing.
 
 
-Technologies
+**Technologies*8
 
 Backend: ASP.NET Core MVC, Entity Framework Core
 
